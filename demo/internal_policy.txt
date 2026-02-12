@@ -1,0 +1,9 @@
+=== IMPERIUM COMPLIANCE POLICY v1.0 ===
+
+SECTION 1: RELIABILITY CLAIMS
+1.1 Public documentation must NEVER use absolute guarantees.
+    - FORBIDDEN TERMS: "100% uptime", "zero latency", "guaranteed", "never go down".
+    - ACCEPTABLE TERMS: "High availability", "low latency", "industry standard".
+
+SECTION 2: DEPLOYMENT GATES
+2.1 No deployment is permitted if critical logs show "CRITICAL" or "FATAL" errors in the last 15 minutes.
